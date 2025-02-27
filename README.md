@@ -1,5 +1,4 @@
 # Coversational_Chatbot
-### **🚀 LinkedIn Post for Your Conversational Chatbot Project**  
 
 🔹 **Introducing My Custom Conversational Chatbot!** 🤖💬  
 
